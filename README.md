@@ -1,7 +1,7 @@
 ![MasterHead](https://st2.depositphotos.com/31291696/46904/i/600/depositphotos_469045080-stock-photo-conceptual-abstract-theme-written-names.jpg)
 
 <h1 align="center">Hi 👋, I'm Mert yarımay</h1>
-<h3 align="center">Backend developer from Türkiye</h3>
+<h3 align="center">Backend developer</h3>
 
 - 🔭 I’m currently working on **Java**
 
